@@ -3,8 +3,8 @@
     "latitude": 51.5064,
     "longitude": -0.12721,
     "resolvedAddress": Stockholm, Sweden, Sweden",
-    "address": "London",
-    "timezone": "Europe/London",
+    "address": "Stockholm",
+    "timezone": "Central European Time",
     "tzoffset": 0,
     "description": "Similar temperatures continuing with a chance of rain Saturday & Sunday.",
     "days": [
